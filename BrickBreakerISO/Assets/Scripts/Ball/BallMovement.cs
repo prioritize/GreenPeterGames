@@ -12,7 +12,6 @@ public class BallMovement : MonoBehaviour {
 		rb.velocity = new Vector3(speed, 0, 0);
 	}
 	void FixedUpdate() {
-		ballVelocity = rb.velocity;
 		Debug.DrawRay (transform.position, ballVelocity, rayColor, 100.0f);
 	}
 }
