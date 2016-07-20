@@ -40,3 +40,24 @@ C:\Users\Jared\Google Drive\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Unity
 C:\Users\Jared\Google Drive\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEditor.xml
 C:\Users\Jared\Google Drive\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\Jared\Google Drive\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEditor.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEngine.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEngine.xml
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEditor.xml
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\obj\Debug\Assembly-CSharp.dll
+C:\Users\jared\Documents\GitHub\GreenPeterGames\BrickBreakerISO\obj\Debug\Assembly-CSharp.pdb

@@ -45,8 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Ball\BallCharacteristics.cs" />
      <Compile Include="Assets\Scripts\Ball\BallMovement.cs" />
-     <Compile Include="Assets\Scripts\Blocks\BallCharacteristics.cs" />
      <Compile Include="Assets\Scripts\Blocks\BlockCollision.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
  <Reference Include="UnityEngine.UI">
